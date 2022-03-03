@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6, p{
     width: 100%;
     padding-left: 5vw;
     padding-right: 5vw;
-    background: #e08127;
+    background: #811212;
 }
 .navbar-nav{
     padding-left: 0;
@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6, p{
     padding: 1.3rem 0;
 }
 .navbar-brand{
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: 700;
 }
 .navbar-brand span{
@@ -136,7 +136,7 @@ h1, h2, h3, h4, h5, h6, p{
 /* header */
 .header{
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)), url(../images/capa.jpg) center/cover fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)), url(../images/header-banner-3.jpg) center/cover fixed;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -496,7 +496,7 @@ h1, h2, h3, h4, h5, h6, p{
     /*** navbar background change ***/
     .bg-navbar{
         width: 100%;
-        background: #e08127;
+        background: #811212;
         padding-top: 0.5rem;
         padding-bottom: 0.5rem;
         -webkit-box-shadow: 0px 0px 25px 0px rgba(172, 166, 166, 0.75);
