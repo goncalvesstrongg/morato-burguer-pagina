@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6, p{
     width: 100%;
     padding-left: 5vw;
     padding-right: 5vw;
-    background: rgba(94, 59, 59, 0.986);
+    background: #ca1111fb;
 }
 .navbar-nav{
     padding-left: 0;
@@ -496,8 +496,7 @@ h1, h2, h3, h4, h5, h6, p{
     /*** navbar background change ***/
     .bg-navbar{
         width: 100%;
-        background: #594736;
-        padding-top: 0.5rem;
+        background: #ca1111fb;
         padding-bottom: 0.5rem;
         -webkit-box-shadow: 0px 0px 25px 0px rgba(172, 166, 166, 0.75);
         -moz-box-shadow: 0px 0px 25px 0px rgba(175, 166, 166, 0.75);
